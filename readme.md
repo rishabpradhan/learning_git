@@ -1,4 +1,4 @@
-hello this learing git
+hello this is dev1
 commands to understand 
 1.to initialize empty repo 
 git init
